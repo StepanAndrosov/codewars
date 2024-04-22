@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "watch": "tsc -w"
+    },
+    "devDependencies": {
+        "typescript": "^4.8.4"
+    },
+    "name": "codewars",
+    "version": "1.0.0",
+    "main": "script.js",
+    "license": "MIT"
+}
